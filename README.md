@@ -15,8 +15,8 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 - **Status:** Em Desenvolvimento
 
 ### 📍 **WHERE** (Onde?)
-- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistemas]()
-- **Estrutura:** Disponível na pasta `ProjetoAPS`
+- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistemas](https://github.com/Lucca143/APS-Analise-De-Projetos-E-Sistemas)
+- **Estrutura:** Disponível na pasta `Projeto`
 
 ### 🎯 **WHY** (Por Quê?)
 Este projeto foi desenvolvido com os seguintes objetivos:
