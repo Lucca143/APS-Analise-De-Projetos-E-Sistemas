@@ -21,12 +21,12 @@ O sistema poderá apresentar:
 
 ### 👥 WHO (Quem?)
 **Equipe do projeto:**
-- Ana Luísa
-- Gabriel Rufino
-- João Paulo Ribeiro
-- Pietro Vianna
-- Derik Noronha
-- Matheus Henrique
+- Lucca Cavalcante Parreiras
+- João Victor Montalvão 
+- 
+- 
+- 
+- 
 
 **Público-alvo:** Alunos da UDF que utilizam carro para ir à instituição, especialmente os estudantes do período noturno. A proposta também pode beneficiar professores, funcionários, visitantes e a administração do estacionamento.
 
