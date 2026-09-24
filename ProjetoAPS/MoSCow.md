@@ -18,6 +18,9 @@
 | Nº | Integrante |
 |---:|---|
 | 1 | [Lucca Cavalcante](https://github.com/Lucca143) |
+| 2 | [João Gabriel](https://github.com/Jotagegmf) |
+| 3 | [Luan Reis](https://github.com/r31s) |
+| 4 | [João Victor Montalvão](https://github.com/joaovictorcode7) |
 
 ---
 
